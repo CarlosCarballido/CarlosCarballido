@@ -11,7 +11,6 @@
 - 🚗 Developing software for an AI Formula Student car at **Auria Technologies**.
 - 💬 I love sharing my projects and learning from the community.
 
----
 
 ## 📊 GitHub Stats
 
@@ -29,7 +28,6 @@
   />
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -43,10 +41,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
----
 
 ## 🤝 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-carballido-placer-29a2382a5)  
 
----
