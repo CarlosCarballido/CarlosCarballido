@@ -42,7 +42,7 @@
 </p>
 
 
-## 🤝 Conecta conmigo
+## 🤝 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-carballido-placer-29a2382a5)  
 
