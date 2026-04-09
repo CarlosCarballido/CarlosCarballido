@@ -28,15 +28,6 @@
   />
 </div>
 
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
-</p>
-
-
 ## 🤝 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-carballido-placer-29a2382a5)  
