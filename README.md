@@ -4,14 +4,6 @@
   - https://shields.io
 -->
 
-# 👋 Hi, I'm **Carlos Carballido**
-
-🧑‍💻 **About Me**
-- 🌱 Currently studying **Artificial Intelligence** at the University of Vigo.
-- 🚗 Developing software for an AI Formula Student car at **Auria Technologies**.
-- 💬 I love sharing my projects and learning from the community.
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -27,10 +19,6 @@
     alt="Top lenguajes de CarlosCarballido"
   />
 </div>
-
-## 🤝 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-carballido-placer-29a2382a5)  
 
 # 👋 Hi, I'm Carlos Carballido
 
@@ -115,3 +103,8 @@ I am looking for opportunities in:
 Preferably in environments where I can work on **real-world impactful projects** and continue growing as an engineer.
 
 ---
+
+## 🤝 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-carballido-placer-29a2382a5)  
+
