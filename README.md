@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/carlos-carballido-placer-29a2382a5">
     <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Carballido-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
 </p>
 
 ---
