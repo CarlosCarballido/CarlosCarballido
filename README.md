@@ -1,25 +1,3 @@
-<!--
-  This README use:
-  - https://github.com/anuraghazra/github-readme-stats
-  - https://shields.io
--->
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/CarlosCarballido">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=CarlosCarballido&show_icons=true&theme=dark&count_private=true&hide_border=true"
-      alt="Stats de GitHub de CarlosCarballido"
-    />
-  </a>
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCarballido&layout=compact&theme=dark&hide_border=true"
-    alt="Top lenguajes de CarlosCarballido"
-  />
-</div>
-
 # 👋 Hi, I'm Carlos Carballido
 
 🚀 Artificial Intelligence Student | Autonomous Systems | Software Developer  
