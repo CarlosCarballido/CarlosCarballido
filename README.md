@@ -1,54 +1,63 @@
-# 👋 Hi, I'm Carlos Carballido
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Carlos Carballido</h1>
+<h3 align="center">🚀 Artificial Intelligence Engineer | Autonomous Systems | Tech Leader</h3>
 
-🚀 Artificial Intelligence Student | Autonomous Systems | Software Developer  
-
-I build intelligent systems that solve real-world problems using AI, data, and software engineering.
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-carballido-placer-29a2382a5">
+    <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Carballido-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Studying Artificial Intelligence at University of Vigo  
-- 🤖 Team Leader of a **39-person AI & engineering team**  
-- 🚗 Developing an autonomous race car for Formula Student AI  
-- 📊 Focused on algorithms, real-time systems, and applied AI  
-- 🤝 Passionate about teamwork, leadership, and building impactful tech  
+🚗 Team Leader of a **39-person AI & engineering team**  
+🤖 Building an **autonomous race car for Formula Student AI**  
+📊 Focused on **algorithms, real-time systems & applied AI**  
+🤝 Strong background in **leadership, teamwork & project management**  
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- Python · Java · C  
-
-**AI & Data**
-- Algorithm Design  
-- Real-Time Data Processing  
-- Autonomous Systems  
-
-**Tools**
-- GitHub · Google Workspace  
+💡 I build intelligent systems that solve real-world problems using data and AI.
 
 ---
 
 ## 🚀 Featured Project
 
 ### 🏥 Intelligent Hospital System  
-🔗 https://github.com/CarlosCarballido/ProyectoHospitalInteligente  
+🔗 [View Project](https://github.com/CarlosCarballido/ProyectoHospitalInteligente)
 
-- AI-based system to optimize hospital processes  
-- Focus on efficiency and decision-making using data  
-- Real-world oriented problem solving  
+> AI-based system designed to optimize hospital processes and improve decision-making.
+
+- ⚙️ Data-driven optimization  
+- 🧠 Applied AI logic  
+- 📈 Focus on real-world efficiency  
 
 ---
 
-## 💻 Experience Highlights
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,github" />
+</p>
+
+**Core Skills**
+- Algorithm Design  
+- Real-Time Data Processing  
+- Autonomous Systems  
+- Software Development  
+
+---
+
+## 🧠 Experience Snapshot
 
 ### 🚗 Auria Technologies — Team Leader
-- Leading a **39-member multidisciplinary team**  
-- Secured **+10 sponsors in 2025**  
-- Managing development of an autonomous vehicle  
-- Coordinating AI, software, and hardware integration  
+- Leading a **39-member multidisciplinary team**
+- Secured **+10 sponsors (2025)**
+- Managing development of an autonomous vehicle
+- Coordinating AI, software & hardware systems
 
 ### 🤖 UVigo Motorsport — Software Developer
 - Developed software for autonomous driving  
@@ -57,32 +66,37 @@ I build intelligent systems that solve real-world problems using AI, data, and s
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCarballido)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCarballido&layout=compact)
-
----
-
-## 🌍 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/carlos-carballido-placer-29a2382a5  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosCarballido&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCarballido&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ What I'm Looking For
+## 🎯 What I’m Looking For
 
-I am looking for opportunities in:
+I’m looking for opportunities in:
+
 - Artificial Intelligence  
 - Data & Algorithms  
-- Software Development  
+- Software Engineering  
 
-Preferably in environments where I can work on **real-world impactful projects** and continue growing as an engineer.
+💼 Especially interested in **real-world impactful projects and consulting environments**
 
 ---
 
-## 🤝 Contact
+## ⚡ Fun Fact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-carballido-placer-29a2382a5)  
+I lead teams on the track 🏎️ and on the field ⚾ — combining tech, leadership, and performance.
 
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-carballido-placer-29a2382a5">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
